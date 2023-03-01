@@ -7,7 +7,11 @@ const DUMMY_QUOTES = [
     { id : 'Q3' , author : 'Haji Sab' , text : 'I am the best one'}
 ]
 
+
 const AllQuotes = () => {
+
+   
+
   return (
     <div>
      
